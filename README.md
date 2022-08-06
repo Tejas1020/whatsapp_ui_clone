@@ -1,16 +1,8 @@
 # whatsapp_ui_clone
 
-A new Flutter project.
+This is new Flutter Project where I have built Whatsapp UI Clone of App (Android & IOS) and Web.
 
-## Getting Started
+## A Small Demo Pic
+Feel free to USe the Code and don't forget to Mention me😊.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Whatsapp UI Clone App + Web Using Flutter](https://user-images.githubusercontent.com/54032612/183253166-8af41600-bddd-49bb-b66c-9dafacc9f631.png)
